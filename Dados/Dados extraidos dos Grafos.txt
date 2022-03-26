@@ -1,0 +1,810 @@
+
+Nº de Nós do Grafo do dia 1: 81
+Nº de Arestas do Grafo do dia 1: 286
+Densidade do grafo do dia 1: 0.0883
+Grau médio do grafo do dia 1: 7.0617
+Nº de componentes conectados do grafo do dia 1: 3
+Clusterização Média do grafo do dia 1: 0.7237
+Nº de comunidades do grafo do dia 1: 9
+Modularidade do grafo do dia 1: 0.5038
+
+Nº de Nós do Grafo do dia 2: 68
+Nº de Arestas do Grafo do dia 2: 153
+Densidade do grafo do dia 2: 0.0672
+Grau médio do grafo do dia 2: 4.5
+Nº de componentes conectados do grafo do dia 2: 1
+Clusterização Média do grafo do dia 2: 0.6565
+Nº de comunidades do grafo do dia 2: 6
+Modularidade do grafo do dia 2: 0.6835
+
+Nº de Nós do Grafo do dia 3: 82
+Nº de Arestas do Grafo do dia 3: 256
+Densidade do grafo do dia 3: 0.0771
+Grau médio do grafo do dia 3: 6.2439
+Nº de componentes conectados do grafo do dia 3: 2
+Clusterização Média do grafo do dia 3: 0.5921
+Nº de comunidades do grafo do dia 3: 9
+Modularidade do grafo do dia 3: 0.5404
+
+Nº de Nós do Grafo do dia 4: 95
+Nº de Arestas do Grafo do dia 4: 479
+Densidade do grafo do dia 4: 0.1073
+Grau médio do grafo do dia 4: 10.0842
+Nº de componentes conectados do grafo do dia 4: 1
+Clusterização Média do grafo do dia 4: 0.595
+Nº de comunidades do grafo do dia 4: 6
+Modularidade do grafo do dia 4: 0.4417
+
+Nº de Nós do Grafo do dia 5: 89
+Nº de Arestas do Grafo do dia 5: 274
+Densidade do grafo do dia 5: 0.07
+Grau médio do grafo do dia 5: 6.1573
+Nº de componentes conectados do grafo do dia 5: 2
+Clusterização Média do grafo do dia 5: 0.482
+Nº de comunidades do grafo do dia 5: 7
+Modularidade do grafo do dia 5: 0.5054
+
+Nº de Nós do Grafo do dia 6: 86
+Nº de Arestas do Grafo do dia 6: 330
+Densidade do grafo do dia 6: 0.0903
+Grau médio do grafo do dia 6: 7.6744
+Nº de componentes conectados do grafo do dia 6: 1
+Clusterização Média do grafo do dia 6: 0.5464
+Nº de comunidades do grafo do dia 6: 6
+Modularidade do grafo do dia 6: 0.4803
+
+Nº de Nós do Grafo do dia 7: 93
+Nº de Arestas do Grafo do dia 7: 437
+Densidade do grafo do dia 7: 0.1022
+Grau médio do grafo do dia 7: 9.3978
+Nº de componentes conectados do grafo do dia 7: 1
+Clusterização Média do grafo do dia 7: 0.5719
+Nº de comunidades do grafo do dia 7: 7
+Modularidade do grafo do dia 7: 0.415
+
+Nº de Nós do Grafo do dia 8: 95
+Nº de Arestas do Grafo do dia 8: 328
+Densidade do grafo do dia 8: 0.0735
+Grau médio do grafo do dia 8: 6.9053
+Nº de componentes conectados do grafo do dia 8: 2
+Clusterização Média do grafo do dia 8: 0.4877
+Nº de comunidades do grafo do dia 8: 7
+Modularidade do grafo do dia 8: 0.4354
+
+Nº de Nós do Grafo do dia 9: 93
+Nº de Arestas do Grafo do dia 9: 380
+Densidade do grafo do dia 9: 0.0888
+Grau médio do grafo do dia 9: 8.172
+Nº de componentes conectados do grafo do dia 9: 1
+Clusterização Média do grafo do dia 9: 0.4867
+Nº de comunidades do grafo do dia 9: 7
+Modularidade do grafo do dia 9: 0.4523
+
+Nº de Nós do Grafo do dia 10: 98
+Nº de Arestas do Grafo do dia 10: 516
+Densidade do grafo do dia 10: 0.1086
+Grau médio do grafo do dia 10: 10.5306
+Nº de componentes conectados do grafo do dia 10: 1
+Clusterização Média do grafo do dia 10: 0.5019
+Nº de comunidades do grafo do dia 10: 7
+Modularidade do grafo do dia 10: 0.3882
+
+Nº de Nós do Grafo do dia 11: 95
+Nº de Arestas do Grafo do dia 11: 304
+Densidade do grafo do dia 11: 0.0681
+Grau médio do grafo do dia 11: 6.4
+Nº de componentes conectados do grafo do dia 11: 1
+Clusterização Média do grafo do dia 11: 0.4591
+Nº de comunidades do grafo do dia 11: 9
+Modularidade do grafo do dia 11: 0.4505
+
+Nº de Nós do Grafo do dia 12: 96
+Nº de Arestas do Grafo do dia 12: 384
+Densidade do grafo do dia 12: 0.0842
+Grau médio do grafo do dia 12: 8.0
+Nº de componentes conectados do grafo do dia 12: 1
+Clusterização Média do grafo do dia 12: 0.4286
+Nº de comunidades do grafo do dia 12: 7
+Modularidade do grafo do dia 12: 0.4234
+
+Nº de Nós do Grafo do dia 13: 98
+Nº de Arestas do Grafo do dia 13: 510
+Densidade do grafo do dia 13: 0.1073
+Grau médio do grafo do dia 13: 10.4082
+Nº de componentes conectados do grafo do dia 13: 1
+Clusterização Média do grafo do dia 13: 0.421
+Nº de comunidades do grafo do dia 13: 6
+Modularidade do grafo do dia 13: 0.3637
+
+Nº de Nós do Grafo do dia 14: 97
+Nº de Arestas do Grafo do dia 14: 403
+Densidade do grafo do dia 14: 0.0866
+Grau médio do grafo do dia 14: 8.3093
+Nº de componentes conectados do grafo do dia 14: 1
+Clusterização Média do grafo do dia 14: 0.373
+Nº de comunidades do grafo do dia 14: 7
+Modularidade do grafo do dia 14: 0.3897
+
+Nº de Nós do Grafo do dia 15: 99
+Nº de Arestas do Grafo do dia 15: 402
+Densidade do grafo do dia 15: 0.0829
+Grau médio do grafo do dia 15: 8.1212
+Nº de componentes conectados do grafo do dia 15: 1
+Clusterização Média do grafo do dia 15: 0.3989
+Nº de comunidades do grafo do dia 15: 7
+Modularidade do grafo do dia 15: 0.4448
+
+Nº de Nós do Grafo do dia 16: 99
+Nº de Arestas do Grafo do dia 16: 510
+Densidade do grafo do dia 16: 0.1051
+Grau médio do grafo do dia 16: 10.303
+Nº de componentes conectados do grafo do dia 16: 1
+Clusterização Média do grafo do dia 16: 0.4095
+Nº de comunidades do grafo do dia 16: 5
+Modularidade do grafo do dia 16: 0.3668
+
+Nº de Nós do Grafo do dia 17: 98
+Nº de Arestas do Grafo do dia 17: 485
+Densidade do grafo do dia 17: 0.102
+Grau médio do grafo do dia 17: 9.898
+Nº de componentes conectados do grafo do dia 17: 1
+Clusterização Média do grafo do dia 17: 0.3638
+Nº de comunidades do grafo do dia 17: 7
+Modularidade do grafo do dia 17: 0.3675
+
+Nº de Nós do Grafo do dia 18: 98
+Nº de Arestas do Grafo do dia 18: 539
+Densidade do grafo do dia 18: 0.1134
+Grau médio do grafo do dia 18: 11.0
+Nº de componentes conectados do grafo do dia 18: 1
+Clusterização Média do grafo do dia 18: 0.3828
+Nº de comunidades do grafo do dia 18: 5
+Modularidade do grafo do dia 18: 0.3364
+
+Nº de Nós do Grafo do dia 19: 100
+Nº de Arestas do Grafo do dia 19: 818
+Densidade do grafo do dia 19: 0.1653
+Grau médio do grafo do dia 19: 16.36
+Nº de componentes conectados do grafo do dia 19: 1
+Clusterização Média do grafo do dia 19: 0.4493
+Nº de comunidades do grafo do dia 19: 5
+Modularidade do grafo do dia 19: 0.3049
+
+Nº de Nós do Grafo do dia 20: 100
+Nº de Arestas do Grafo do dia 20: 584
+Densidade do grafo do dia 20: 0.118
+Grau médio do grafo do dia 20: 11.68
+Nº de componentes conectados do grafo do dia 20: 1
+Clusterização Média do grafo do dia 20: 0.3743
+Nº de comunidades do grafo do dia 20: 7
+Modularidade do grafo do dia 20: 0.3443
+
+Nº de Nós do Grafo do dia 21: 100
+Nº de Arestas do Grafo do dia 21: 539
+Densidade do grafo do dia 21: 0.1089
+Grau médio do grafo do dia 21: 10.78
+Nº de componentes conectados do grafo do dia 21: 1
+Clusterização Média do grafo do dia 21: 0.3347
+Nº de comunidades do grafo do dia 21: 6
+Modularidade do grafo do dia 21: 0.3291
+
+Nº de Nós do Grafo do dia 22: 100
+Nº de Arestas do Grafo do dia 22: 653
+Densidade do grafo do dia 22: 0.1319
+Grau médio do grafo do dia 22: 13.06
+Nº de componentes conectados do grafo do dia 22: 1
+Clusterização Média do grafo do dia 22: 0.3537
+Nº de comunidades do grafo do dia 22: 5
+Modularidade do grafo do dia 22: 0.2765
+
+Nº de Nós do Grafo do dia 23: 99
+Nº de Arestas do Grafo do dia 23: 537
+Densidade do grafo do dia 23: 0.1107
+Grau médio do grafo do dia 23: 10.8485
+Nº de componentes conectados do grafo do dia 23: 1
+Clusterização Média do grafo do dia 23: 0.3408
+Nº de comunidades do grafo do dia 23: 7
+Modularidade do grafo do dia 23: 0.3428
+
+Nº de Nós do Grafo do dia 24: 97
+Nº de Arestas do Grafo do dia 24: 604
+Densidade do grafo do dia 24: 0.1297
+Grau médio do grafo do dia 24: 12.4536
+Nº de componentes conectados do grafo do dia 24: 1
+Clusterização Média do grafo do dia 24: 0.3744
+Nº de comunidades do grafo do dia 24: 6
+Modularidade do grafo do dia 24: 0.3167
+
+Nº de Nós do Grafo do dia 25: 100
+Nº de Arestas do Grafo do dia 25: 606
+Densidade do grafo do dia 25: 0.1224
+Grau médio do grafo do dia 25: 12.12
+Nº de componentes conectados do grafo do dia 25: 1
+Clusterização Média do grafo do dia 25: 0.3502
+Nº de comunidades do grafo do dia 25: 5
+Modularidade do grafo do dia 25: 0.2942
+
+Nº de Nós do Grafo do dia 26: 98
+Nº de Arestas do Grafo do dia 26: 707
+Densidade do grafo do dia 26: 0.1487
+Grau médio do grafo do dia 26: 14.4286
+Nº de componentes conectados do grafo do dia 26: 1
+Clusterização Média do grafo do dia 26: 0.3502
+Nº de comunidades do grafo do dia 26: 7
+Modularidade do grafo do dia 26: 0.2624
+
+Nº de Nós do Grafo do dia 27: 100
+Nº de Arestas do Grafo do dia 27: 747
+Densidade do grafo do dia 27: 0.1509
+Grau médio do grafo do dia 27: 14.94
+Nº de componentes conectados do grafo do dia 27: 1
+Clusterização Média do grafo do dia 27: 0.348
+Nº de comunidades do grafo do dia 27: 5
+Modularidade do grafo do dia 27: 0.2841
+
+Nº de Nós do Grafo do dia 28: 100
+Nº de Arestas do Grafo do dia 28: 839
+Densidade do grafo do dia 28: 0.1695
+Grau médio do grafo do dia 28: 16.78
+Nº de componentes conectados do grafo do dia 28: 1
+Clusterização Média do grafo do dia 28: 0.3715
+Nº de comunidades do grafo do dia 28: 6
+Modularidade do grafo do dia 28: 0.2417
+
+Nº de Nós do Grafo do dia 29: 100
+Nº de Arestas do Grafo do dia 29: 707
+Densidade do grafo do dia 29: 0.1428
+Grau médio do grafo do dia 29: 14.14
+Nº de componentes conectados do grafo do dia 29: 1
+Clusterização Média do grafo do dia 29: 0.3675
+Nº de comunidades do grafo do dia 29: 7
+Modularidade do grafo do dia 29: 0.2603
+
+Nº de Nós do Grafo do dia 30: 99
+Nº de Arestas do Grafo do dia 30: 692
+Densidade do grafo do dia 30: 0.1427
+Grau médio do grafo do dia 30: 13.9798
+Nº de componentes conectados do grafo do dia 30: 1
+Clusterização Média do grafo do dia 30: 0.3361
+Nº de comunidades do grafo do dia 30: 7
+Modularidade do grafo do dia 30: 0.271
+
+Nº de Nós do Grafo do dia 31: 100
+Nº de Arestas do Grafo do dia 31: 779
+Densidade do grafo do dia 31: 0.1574
+Grau médio do grafo do dia 31: 15.58
+Nº de componentes conectados do grafo do dia 31: 1
+Clusterização Média do grafo do dia 31: 0.3465
+Nº de comunidades do grafo do dia 31: 5
+Modularidade do grafo do dia 31: 0.2584
+
+Nº de Nós do Grafo do dia 32: 100
+Nº de Arestas do Grafo do dia 32: 599
+Densidade do grafo do dia 32: 0.121
+Grau médio do grafo do dia 32: 11.98
+Nº de componentes conectados do grafo do dia 32: 2
+Clusterização Média do grafo do dia 32: 0.3462
+Nº de comunidades do grafo do dia 32: 7
+Modularidade do grafo do dia 32: 0.3031
+
+Nº de Nós do Grafo do dia 33: 99
+Nº de Arestas do Grafo do dia 33: 711
+Densidade do grafo do dia 33: 0.1466
+Grau médio do grafo do dia 33: 14.3636
+Nº de componentes conectados do grafo do dia 33: 1
+Clusterização Média do grafo do dia 33: 0.375
+Nº de comunidades do grafo do dia 33: 7
+Modularidade do grafo do dia 33: 0.2917
+
+Nº de Nós do Grafo do dia 34: 100
+Nº de Arestas do Grafo do dia 34: 756
+Densidade do grafo do dia 34: 0.1527
+Grau médio do grafo do dia 34: 15.12
+Nº de componentes conectados do grafo do dia 34: 1
+Clusterização Média do grafo do dia 34: 0.4022
+Nº de comunidades do grafo do dia 34: 6
+Modularidade do grafo do dia 34: 0.3117
+
+Nº de Nós do Grafo do dia 35: 99
+Nº de Arestas do Grafo do dia 35: 662
+Densidade do grafo do dia 35: 0.1365
+Grau médio do grafo do dia 35: 13.3737
+Nº de componentes conectados do grafo do dia 35: 1
+Clusterização Média do grafo do dia 35: 0.3524
+Nº de comunidades do grafo do dia 35: 7
+Modularidade do grafo do dia 35: 0.2965
+
+Nº de Nós do Grafo do dia 36: 99
+Nº de Arestas do Grafo do dia 36: 750
+Densidade do grafo do dia 36: 0.1546
+Grau médio do grafo do dia 36: 15.1515
+Nº de componentes conectados do grafo do dia 36: 1
+Clusterização Média do grafo do dia 36: 0.378
+Nº de comunidades do grafo do dia 36: 5
+Modularidade do grafo do dia 36: 0.271
+
+Nº de Nós do Grafo do dia 37: 99
+Nº de Arestas do Grafo do dia 37: 696
+Densidade do grafo do dia 37: 0.1435
+Grau médio do grafo do dia 37: 14.0606
+Nº de componentes conectados do grafo do dia 37: 1
+Clusterização Média do grafo do dia 37: 0.3791
+Nº de comunidades do grafo do dia 37: 6
+Modularidade do grafo do dia 37: 0.2836
+
+Nº de Nós do Grafo do dia 38: 100
+Nº de Arestas do Grafo do dia 38: 741
+Densidade do grafo do dia 38: 0.1497
+Grau médio do grafo do dia 38: 14.82
+Nº de componentes conectados do grafo do dia 38: 1
+Clusterização Média do grafo do dia 38: 0.3928
+Nº de comunidades do grafo do dia 38: 7
+Modularidade do grafo do dia 38: 0.2819
+
+Nº de Nós do Grafo do dia 39: 100
+Nº de Arestas do Grafo do dia 39: 678
+Densidade do grafo do dia 39: 0.137
+Grau médio do grafo do dia 39: 13.56
+Nº de componentes conectados do grafo do dia 39: 1
+Clusterização Média do grafo do dia 39: 0.3806
+Nº de comunidades do grafo do dia 39: 7
+Modularidade do grafo do dia 39: 0.2873
+
+Nº de Nós do Grafo do dia 40: 99
+Nº de Arestas do Grafo do dia 40: 688
+Densidade do grafo do dia 40: 0.1418
+Grau médio do grafo do dia 40: 13.899
+Nº de componentes conectados do grafo do dia 40: 1
+Clusterização Média do grafo do dia 40: 0.3655
+Nº de comunidades do grafo do dia 40: 6
+Modularidade do grafo do dia 40: 0.2887
+
+Nº de Nós do Grafo do dia 41: 100
+Nº de Arestas do Grafo do dia 41: 671
+Densidade do grafo do dia 41: 0.1356
+Grau médio do grafo do dia 41: 13.42
+Nº de componentes conectados do grafo do dia 41: 1
+Clusterização Média do grafo do dia 41: 0.3914
+Nº de comunidades do grafo do dia 41: 6
+Modularidade do grafo do dia 41: 0.3003
+
+Nº de Nós do Grafo do dia 42: 100
+Nº de Arestas do Grafo do dia 42: 761
+Densidade do grafo do dia 42: 0.1537
+Grau médio do grafo do dia 42: 15.22
+Nº de componentes conectados do grafo do dia 42: 1
+Clusterização Média do grafo do dia 42: 0.3659
+Nº de comunidades do grafo do dia 42: 5
+Modularidade do grafo do dia 42: 0.272
+
+Nº de Nós do Grafo do dia 43: 99
+Nº de Arestas do Grafo do dia 43: 830
+Densidade do grafo do dia 43: 0.1711
+Grau médio do grafo do dia 43: 16.7677
+Nº de componentes conectados do grafo do dia 43: 1
+Clusterização Média do grafo do dia 43: 0.3879
+Nº de comunidades do grafo do dia 43: 5
+Modularidade do grafo do dia 43: 0.2836
+
+Nº de Nós do Grafo do dia 44: 99
+Nº de Arestas do Grafo do dia 44: 803
+Densidade do grafo do dia 44: 0.1655
+Grau médio do grafo do dia 44: 16.2222
+Nº de componentes conectados do grafo do dia 44: 1
+Clusterização Média do grafo do dia 44: 0.4119
+Nº de comunidades do grafo do dia 44: 6
+Modularidade do grafo do dia 44: 0.2583
+
+Nº de Nós do Grafo do dia 45: 100
+Nº de Arestas do Grafo do dia 45: 808
+Densidade do grafo do dia 45: 0.1632
+Grau médio do grafo do dia 45: 16.16
+Nº de componentes conectados do grafo do dia 45: 1
+Clusterização Média do grafo do dia 45: 0.3624
+Nº de comunidades do grafo do dia 45: 7
+Modularidade do grafo do dia 45: 0.2595
+
+Nº de Nós do Grafo do dia 46: 99
+Nº de Arestas do Grafo do dia 46: 951
+Densidade do grafo do dia 46: 0.196
+Grau médio do grafo do dia 46: 19.2121
+Nº de componentes conectados do grafo do dia 46: 1
+Clusterização Média do grafo do dia 46: 0.4217
+Nº de comunidades do grafo do dia 46: 5
+Modularidade do grafo do dia 46: 0.2453
+
+Nº de Nós do Grafo do dia 47: 100
+Nº de Arestas do Grafo do dia 47: 859
+Densidade do grafo do dia 47: 0.1735
+Grau médio do grafo do dia 47: 17.18
+Nº de componentes conectados do grafo do dia 47: 1
+Clusterização Média do grafo do dia 47: 0.4126
+Nº de comunidades do grafo do dia 47: 6
+Modularidade do grafo do dia 47: 0.2891
+
+Nº de Nós do Grafo do dia 48: 99
+Nº de Arestas do Grafo do dia 48: 790
+Densidade do grafo do dia 48: 0.1629
+Grau médio do grafo do dia 48: 15.9596
+Nº de componentes conectados do grafo do dia 48: 1
+Clusterização Média do grafo do dia 48: 0.4235
+Nº de comunidades do grafo do dia 48: 5
+Modularidade do grafo do dia 48: 0.2596
+
+Nº de Nós do Grafo do dia 49: 100
+Nº de Arestas do Grafo do dia 49: 748
+Densidade do grafo do dia 49: 0.1511
+Grau médio do grafo do dia 49: 14.96
+Nº de componentes conectados do grafo do dia 49: 1
+Clusterização Média do grafo do dia 49: 0.3699
+Nº de comunidades do grafo do dia 49: 5
+Modularidade do grafo do dia 49: 0.2498
+
+Nº de Nós do Grafo do dia 50: 99
+Nº de Arestas do Grafo do dia 50: 738
+Densidade do grafo do dia 50: 0.1521
+Grau médio do grafo do dia 50: 14.9091
+Nº de componentes conectados do grafo do dia 50: 1
+Clusterização Média do grafo do dia 50: 0.3983
+Nº de comunidades do grafo do dia 50: 6
+Modularidade do grafo do dia 50: 0.2723
+
+Nº de Nós do Grafo do dia 51: 100
+Nº de Arestas do Grafo do dia 51: 724
+Densidade do grafo do dia 51: 0.1463
+Grau médio do grafo do dia 51: 14.48
+Nº de componentes conectados do grafo do dia 51: 1
+Clusterização Média do grafo do dia 51: 0.3991
+Nº de comunidades do grafo do dia 51: 5
+Modularidade do grafo do dia 51: 0.2763
+
+Nº de Nós do Grafo do dia 52: 99
+Nº de Arestas do Grafo do dia 52: 728
+Densidade do grafo do dia 52: 0.1501
+Grau médio do grafo do dia 52: 14.7071
+Nº de componentes conectados do grafo do dia 52: 1
+Clusterização Média do grafo do dia 52: 0.3808
+Nº de comunidades do grafo do dia 52: 6
+Modularidade do grafo do dia 52: 0.2633
+
+Nº de Nós do Grafo do dia 53: 98
+Nº de Arestas do Grafo do dia 53: 726
+Densidade do grafo do dia 53: 0.1527
+Grau médio do grafo do dia 53: 14.8163
+Nº de componentes conectados do grafo do dia 53: 1
+Clusterização Média do grafo do dia 53: 0.3915
+Nº de comunidades do grafo do dia 53: 6
+Modularidade do grafo do dia 53: 0.2919
+
+Nº de Nós do Grafo do dia 54: 99
+Nº de Arestas do Grafo do dia 54: 779
+Densidade do grafo do dia 54: 0.1606
+Grau médio do grafo do dia 54: 15.7374
+Nº de componentes conectados do grafo do dia 54: 1
+Clusterização Média do grafo do dia 54: 0.3981
+Nº de comunidades do grafo do dia 54: 6
+Modularidade do grafo do dia 54: 0.2935
+
+Nº de Nós do Grafo do dia 55: 99
+Nº de Arestas do Grafo do dia 55: 770
+Densidade do grafo do dia 55: 0.1587
+Grau médio do grafo do dia 55: 15.5556
+Nº de componentes conectados do grafo do dia 55: 1
+Clusterização Média do grafo do dia 55: 0.4184
+Nº de comunidades do grafo do dia 55: 6
+Modularidade do grafo do dia 55: 0.2895
+
+Nº de Nós do Grafo do dia 56: 98
+Nº de Arestas do Grafo do dia 56: 772
+Densidade do grafo do dia 56: 0.1624
+Grau médio do grafo do dia 56: 15.7551
+Nº de componentes conectados do grafo do dia 56: 1
+Clusterização Média do grafo do dia 56: 0.4071
+Nº de comunidades do grafo do dia 56: 6
+Modularidade do grafo do dia 56: 0.2495
+
+Nº de Nós do Grafo do dia 57: 100
+Nº de Arestas do Grafo do dia 57: 736
+Densidade do grafo do dia 57: 0.1487
+Grau médio do grafo do dia 57: 14.72
+Nº de componentes conectados do grafo do dia 57: 1
+Clusterização Média do grafo do dia 57: 0.3804
+Nº de comunidades do grafo do dia 57: 7
+Modularidade do grafo do dia 57: 0.2798
+
+Nº de Nós do Grafo do dia 58: 96
+Nº de Arestas do Grafo do dia 58: 611
+Densidade do grafo do dia 58: 0.134
+Grau médio do grafo do dia 58: 12.7292
+Nº de componentes conectados do grafo do dia 58: 1
+Clusterização Média do grafo do dia 58: 0.3745
+Nº de comunidades do grafo do dia 58: 7
+Modularidade do grafo do dia 58: 0.3002
+
+Nº de Nós do Grafo do dia 59: 99
+Nº de Arestas do Grafo do dia 59: 723
+Densidade do grafo do dia 59: 0.149
+Grau médio do grafo do dia 59: 14.6061
+Nº de componentes conectados do grafo do dia 59: 1
+Clusterização Média do grafo do dia 59: 0.4199
+Nº de comunidades do grafo do dia 59: 6
+Modularidade do grafo do dia 59: 0.2838
+
+Nº de Nós do Grafo do dia 60: 99
+Nº de Arestas do Grafo do dia 60: 782
+Densidade do grafo do dia 60: 0.1612
+Grau médio do grafo do dia 60: 15.798
+Nº de componentes conectados do grafo do dia 60: 1
+Clusterização Média do grafo do dia 60: 0.4145
+Nº de comunidades do grafo do dia 60: 6
+Modularidade do grafo do dia 60: 0.2695
+
+Nº de Nós do Grafo do dia 61: 97
+Nº de Arestas do Grafo do dia 61: 686
+Densidade do grafo do dia 61: 0.1473
+Grau médio do grafo do dia 61: 14.1443
+Nº de componentes conectados do grafo do dia 61: 1
+Clusterização Média do grafo do dia 61: 0.4123
+Nº de comunidades do grafo do dia 61: 6
+Modularidade do grafo do dia 61: 0.2942
+
+Nº de Nós do Grafo do dia 62: 99
+Nº de Arestas do Grafo do dia 62: 695
+Densidade do grafo do dia 62: 0.1433
+Grau médio do grafo do dia 62: 14.0404
+Nº de componentes conectados do grafo do dia 62: 1
+Clusterização Média do grafo do dia 62: 0.4234
+Nº de comunidades do grafo do dia 62: 7
+Modularidade do grafo do dia 62: 0.2721
+
+Nº de Nós do Grafo do dia 63: 98
+Nº de Arestas do Grafo do dia 63: 575
+Densidade do grafo do dia 63: 0.121
+Grau médio do grafo do dia 63: 11.7347
+Nº de componentes conectados do grafo do dia 63: 1
+Clusterização Média do grafo do dia 63: 0.3977
+Nº de comunidades do grafo do dia 63: 7
+Modularidade do grafo do dia 63: 0.3018
+
+Nº de Nós do Grafo do dia 64: 98
+Nº de Arestas do Grafo do dia 64: 649
+Densidade do grafo do dia 64: 0.1365
+Grau médio do grafo do dia 64: 13.2449
+Nº de componentes conectados do grafo do dia 64: 1
+Clusterização Média do grafo do dia 64: 0.3873
+Nº de comunidades do grafo do dia 64: 6
+Modularidade do grafo do dia 64: 0.3042
+
+Nº de Nós do Grafo do dia 65: 99
+Nº de Arestas do Grafo do dia 65: 556
+Densidade do grafo do dia 65: 0.1146
+Grau médio do grafo do dia 65: 11.2323
+Nº de componentes conectados do grafo do dia 65: 1
+Clusterização Média do grafo do dia 65: 0.3786
+Nº de comunidades do grafo do dia 65: 6
+Modularidade do grafo do dia 65: 0.3299
+
+Nº de Nós do Grafo do dia 66: 95
+Nº de Arestas do Grafo do dia 66: 577
+Densidade do grafo do dia 66: 0.1292
+Grau médio do grafo do dia 66: 12.1474
+Nº de componentes conectados do grafo do dia 66: 1
+Clusterização Média do grafo do dia 66: 0.4575
+Nº de comunidades do grafo do dia 66: 5
+Modularidade do grafo do dia 66: 0.332
+
+Nº de Nós do Grafo do dia 67: 98
+Nº de Arestas do Grafo do dia 67: 511
+Densidade do grafo do dia 67: 0.1075
+Grau médio do grafo do dia 67: 10.4286
+Nº de componentes conectados do grafo do dia 67: 1
+Clusterização Média do grafo do dia 67: 0.4041
+Nº de comunidades do grafo do dia 67: 7
+Modularidade do grafo do dia 67: 0.3719
+
+Nº de Nós do Grafo do dia 68: 98
+Nº de Arestas do Grafo do dia 68: 551
+Densidade do grafo do dia 68: 0.1159
+Grau médio do grafo do dia 68: 11.2449
+Nº de componentes conectados do grafo do dia 68: 1
+Clusterização Média do grafo do dia 68: 0.4341
+Nº de comunidades do grafo do dia 68: 7
+Modularidade do grafo do dia 68: 0.3664
+
+Nº de Nós do Grafo do dia 69: 97
+Nº de Arestas do Grafo do dia 69: 510
+Densidade do grafo do dia 69: 0.1095
+Grau médio do grafo do dia 69: 10.5155
+Nº de componentes conectados do grafo do dia 69: 1
+Clusterização Média do grafo do dia 69: 0.4533
+Nº de comunidades do grafo do dia 69: 5
+Modularidade do grafo do dia 69: 0.3621
+
+Nº de Nós do Grafo do dia 70: 95
+Nº de Arestas do Grafo do dia 70: 466
+Densidade do grafo do dia 70: 0.1044
+Grau médio do grafo do dia 70: 9.8105
+Nº de componentes conectados do grafo do dia 70: 2
+Clusterização Média do grafo do dia 70: 0.4538
+Nº de comunidades do grafo do dia 70: 8
+Modularidade do grafo do dia 70: 0.37
+
+Nº de Nós do Grafo do dia 71: 97
+Nº de Arestas do Grafo do dia 71: 541
+Densidade do grafo do dia 71: 0.1162
+Grau médio do grafo do dia 71: 11.1546
+Nº de componentes conectados do grafo do dia 71: 1
+Clusterização Média do grafo do dia 71: 0.4648
+Nº de comunidades do grafo do dia 71: 7
+Modularidade do grafo do dia 71: 0.3244
+
+Nº de Nós do Grafo do dia 72: 94
+Nº de Arestas do Grafo do dia 72: 463
+Densidade do grafo do dia 72: 0.1059
+Grau médio do grafo do dia 72: 9.8511
+Nº de componentes conectados do grafo do dia 72: 1
+Clusterização Média do grafo do dia 72: 0.4668
+Nº de comunidades do grafo do dia 72: 8
+Modularidade do grafo do dia 72: 0.3774
+
+Nº de Nós do Grafo do dia 73: 90
+Nº de Arestas do Grafo do dia 73: 432
+Densidade do grafo do dia 73: 0.1079
+Grau médio do grafo do dia 73: 9.6
+Nº de componentes conectados do grafo do dia 73: 1
+Clusterização Média do grafo do dia 73: 0.4387
+Nº de comunidades do grafo do dia 73: 5
+Modularidade do grafo do dia 73: 0.3645
+
+Nº de Nós do Grafo do dia 74: 93
+Nº de Arestas do Grafo do dia 74: 355
+Densidade do grafo do dia 74: 0.083
+Grau médio do grafo do dia 74: 7.6344
+Nº de componentes conectados do grafo do dia 74: 2
+Clusterização Média do grafo do dia 74: 0.5342
+Nº de comunidades do grafo do dia 74: 8
+Modularidade do grafo do dia 74: 0.4436
+
+Nº de Nós do Grafo do dia 75: 92
+Nº de Arestas do Grafo do dia 75: 375
+Densidade do grafo do dia 75: 0.0896
+Grau médio do grafo do dia 75: 8.1522
+Nº de componentes conectados do grafo do dia 75: 1
+Clusterização Média do grafo do dia 75: 0.5411
+Nº de comunidades do grafo do dia 75: 7
+Modularidade do grafo do dia 75: 0.4476
+
+Nº de Nós do Grafo do dia 76: 88
+Nº de Arestas do Grafo do dia 76: 271
+Densidade do grafo do dia 76: 0.0708
+Grau médio do grafo do dia 76: 6.1591
+Nº de componentes conectados do grafo do dia 76: 1
+Clusterização Média do grafo do dia 76: 0.5175
+Nº de comunidades do grafo do dia 76: 8
+Modularidade do grafo do dia 76: 0.4801
+
+Nº de Nós do Grafo do dia 77: 87
+Nº de Arestas do Grafo do dia 77: 315
+Densidade do grafo do dia 77: 0.0842
+Grau médio do grafo do dia 77: 7.2414
+Nº de componentes conectados do grafo do dia 77: 1
+Clusterização Média do grafo do dia 77: 0.4969
+Nº de comunidades do grafo do dia 77: 5
+Modularidade do grafo do dia 77: 0.492
+
+Nº de Nós do Grafo do dia 78: 81
+Nº de Arestas do Grafo do dia 78: 251
+Densidade do grafo do dia 78: 0.0775
+Grau médio do grafo do dia 78: 6.1975
+Nº de componentes conectados do grafo do dia 78: 2
+Clusterização Média do grafo do dia 78: 0.5198
+Nº de comunidades do grafo do dia 78: 7
+Modularidade do grafo do dia 78: 0.4948
+
+Nº de Nós do Grafo do dia 79: 85
+Nº de Arestas do Grafo do dia 79: 288
+Densidade do grafo do dia 79: 0.0807
+Grau médio do grafo do dia 79: 6.7765
+Nº de componentes conectados do grafo do dia 79: 1
+Clusterização Média do grafo do dia 79: 0.5142
+Nº de comunidades do grafo do dia 79: 8
+Modularidade do grafo do dia 79: 0.4467
+
+Nº de Nós do Grafo do dia 80: 83
+Nº de Arestas do Grafo do dia 80: 272
+Densidade do grafo do dia 80: 0.0799
+Grau médio do grafo do dia 80: 6.5542
+Nº de componentes conectados do grafo do dia 80: 1
+Clusterização Média do grafo do dia 80: 0.5689
+Nº de comunidades do grafo do dia 80: 8
+Modularidade do grafo do dia 80: 0.4913
+
+Nº de Nós do Grafo do dia 81: 77
+Nº de Arestas do Grafo do dia 81: 215
+Densidade do grafo do dia 81: 0.0735
+Grau médio do grafo do dia 81: 5.5844
+Nº de componentes conectados do grafo do dia 81: 2
+Clusterização Média do grafo do dia 81: 0.4809
+Nº de comunidades do grafo do dia 81: 7
+Modularidade do grafo do dia 81: 0.4905
+
+Nº de Nós do Grafo do dia 82: 80
+Nº de Arestas do Grafo do dia 82: 261
+Densidade do grafo do dia 82: 0.0826
+Grau médio do grafo do dia 82: 6.525
+Nº de componentes conectados do grafo do dia 82: 2
+Clusterização Média do grafo do dia 82: 0.6394
+Nº de comunidades do grafo do dia 82: 8
+Modularidade do grafo do dia 82: 0.5201
+
+Nº de Nós do Grafo do dia 83: 77
+Nº de Arestas do Grafo do dia 83: 257
+Densidade do grafo do dia 83: 0.0878
+Grau médio do grafo do dia 83: 6.6753
+Nº de componentes conectados do grafo do dia 83: 4
+Clusterização Média do grafo do dia 83: 0.5998
+Nº de comunidades do grafo do dia 83: 9
+Modularidade do grafo do dia 83: 0.4716
+
+Nº de Nós do Grafo do dia 84: 63
+Nº de Arestas do Grafo do dia 84: 163
+Densidade do grafo do dia 84: 0.0835
+Grau médio do grafo do dia 84: 5.1746
+Nº de componentes conectados do grafo do dia 84: 2
+Clusterização Média do grafo do dia 84: 0.5831
+Nº de comunidades do grafo do dia 84: 6
+Modularidade do grafo do dia 84: 0.5568
+
+Nº de Nós do Grafo do dia 85: 64
+Nº de Arestas do Grafo do dia 85: 193
+Densidade do grafo do dia 85: 0.0957
+Grau médio do grafo do dia 85: 6.0312
+Nº de componentes conectados do grafo do dia 85: 3
+Clusterização Média do grafo do dia 85: 0.6912
+Nº de comunidades do grafo do dia 85: 7
+Modularidade do grafo do dia 85: 0.5331
+
+Nº de Nós do Grafo do dia 86: 62
+Nº de Arestas do Grafo do dia 86: 165
+Densidade do grafo do dia 86: 0.0873
+Grau médio do grafo do dia 86: 5.3226
+Nº de componentes conectados do grafo do dia 86: 8
+Clusterização Média do grafo do dia 86: 0.8069
+Nº de comunidades do grafo do dia 86: 11
+Modularidade do grafo do dia 86: 0.6174
+
+Nº de Nós do Grafo do dia 87: 46
+Nº de Arestas do Grafo do dia 87: 124
+Densidade do grafo do dia 87: 0.1198
+Grau médio do grafo do dia 87: 5.3913
+Nº de componentes conectados do grafo do dia 87: 4
+Clusterização Média do grafo do dia 87: 0.8027
+Nº de comunidades do grafo do dia 87: 8
+Modularidade do grafo do dia 87: 0.5311
+
+Nº de Nós do Grafo do dia 88: 34
+Nº de Arestas do Grafo do dia 88: 50
+Densidade do grafo do dia 88: 0.0891
+Grau médio do grafo do dia 88: 2.9412
+Nº de componentes conectados do grafo do dia 88: 6
+Clusterização Média do grafo do dia 88: 0.8147
+Nº de comunidades do grafo do dia 88: 7
+Modularidade do grafo do dia 88: 0.7674
+
+Nº de Nós do Grafo do dia 89: 13
+Nº de Arestas do Grafo do dia 89: 15
+Densidade do grafo do dia 89: 0.1923
+Grau médio do grafo do dia 89: 2.3077
+Nº de componentes conectados do grafo do dia 89: 4
+Clusterização Média do grafo do dia 89: 1.0
+Nº de comunidades do grafo do dia 89: 4
+Modularidade do grafo do dia 89: 0.72
+
+Nº de Nós do Grafo do dia 90: 3
+Nº de Arestas do Grafo do dia 90: 3
+Densidade do grafo do dia 90: 1.0
+Grau médio do grafo do dia 90: 2.0
+Nº de componentes conectados do grafo do dia 90: 1
+Clusterização Média do grafo do dia 90: 1.0
+Nº de comunidades do grafo do dia 90: 1
+Modularidade do grafo do dia 90: 0.0
